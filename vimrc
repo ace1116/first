@@ -1,5 +1,6 @@
 execute pathogen#infect()
 set number
+syntax enable
 
 "colorscheme spring
 "colorscheme jun
@@ -17,3 +18,8 @@ set tabstop=4
 set shiftwidth=4
 set softtabstop=4
 set expandtab
+set hlsearch
+set incsearch
+
+set writebackup
+set nobackup
