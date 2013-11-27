@@ -12,3 +12,8 @@ else
 endif
 
 map <F2> :NERDTreeToggle<CR>
+
+set tabstop=4
+set shiftwidth=4
+set softtabstop=4
+set expandtab
